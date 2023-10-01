@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DTXBulwark (Github)
-- 👀 I’m interested in Blockchain Development and Cryptocurrencies
-- 🌱 I’m currently learning Python.
-- 📫 My email is dtxbulwark@gmail.com or my (Twitter) is @DTX_Bulwark
+- 👀 I’m interested in Blockchain/Web 3.0 Development
+- 🌱 I have a startup called PixelEsports.com - give it a look!
+- 📫 My email is dtxbulwark@gmail.com or my (Twitter) is @dtxbulwark
